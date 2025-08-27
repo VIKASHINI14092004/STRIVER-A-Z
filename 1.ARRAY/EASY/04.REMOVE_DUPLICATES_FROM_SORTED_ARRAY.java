@@ -42,5 +42,6 @@ class Solution {
       return write+1;
     }
 }
-
+// TIME COMPLEXITY = O(N)
+// SPACE COMPLEXITY = O(1)
 
